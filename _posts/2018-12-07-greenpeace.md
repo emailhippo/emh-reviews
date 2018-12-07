@@ -3,9 +3,14 @@ title: Review of Email Hippo from Greenpeace
 descripion: How does email validation play a part in helping Greenpeace make the world a better place?
 excerpt: Greenpeace is on a big mission and we’re happy the Email Hippo email validation API has a tiny part to play.
 categories: [reviews, more, api]
+image: /assets/images/reviews/logos/greenpeace350x221.png
+toc: true
+toc_sticky: true
 ---
 
 Greenpeace is on a big mission and we’re happy the Email Hippo email validation API has a tiny part to play.
+
+{% include figure image_path="/assets/images/reviews/logos/greenpeace350x221.png" alt="Greenpeace with email hippo" caption="Greenpeace was facing a challenge with bad email addresses, nearly 10 % of all online action takers used email addresses that were mis-spelled or wrong." %}
 
 Have you ever signed an online petition? Maybe you got a notification in Facebook, or saw a TV programme that made you act? But did you ever think about how the data you provide is used to influence opinions and help bring about change?
 

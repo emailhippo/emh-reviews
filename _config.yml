@@ -8,6 +8,7 @@ plugins:
    - jekyll-seo-tag
    - jekyll-include-cache
 minimal_mistakes_skin: "mint"
+search: true
 title: Email Hippo Reviews
 title_separator: "|"
 name: "emailhippo.com"
