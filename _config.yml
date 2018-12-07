@@ -10,7 +10,7 @@ plugins:
 minimal_mistakes_skin: "mint"
 title: Email Hippo Reviews
 title_separator: "|"
-name: "EmailHippo Reviewer"
+name: "emailhippo.com"
 description: "Reviews of emailhippo.com services from trusted users and customers."
 url: https://emailhippo-reviews.com
 breadcrumbs: true
