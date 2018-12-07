@@ -30,13 +30,13 @@ footer:
       icon: "fas fa-globe"
       url: "https://www.emailhippo.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-twitter-square"
       url: "https://twitter.com/Email_Hippo"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/company/email-hippo-ltd/"
     - label: "Facebook"
-      icon: "fas fa-facebook-square"
+      icon: "fab fa-facebook-square"
       url: "https://www.facebook.com/emailhippoworldwide/"
 
 analytics:
@@ -66,13 +66,13 @@ author:
       icon: "fas fa-globe"
       url: "https://www.emailhippo.com"
     - label: "Twitter"
-      icon: "fas fa-twitter-square"
+      icon: "fab fa-twitter-square"
       url: "https://twitter.com/Email_Hippo"
     - label: "Linked In"
-      icon: "fas fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/company/email-hippo-ltd/"
     - label: "Facebook"
-      icon: "fas fa-facebook-square"
+      icon: "fab fa-facebook-square"
       url: "https://www.facebook.com/emailhippoworldwide/"
     
 
