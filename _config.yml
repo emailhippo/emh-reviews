@@ -30,6 +30,12 @@ footer:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/company/email-hippo-ltd/"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-65302523-9"
+    anonymize_ip: false # default
+
 defaults:
   # _pages
   - scope:
