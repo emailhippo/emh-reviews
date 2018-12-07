@@ -14,6 +14,7 @@ name: "emailhippo.com"
 description: "Reviews of emailhippo.com services from trusted users and customers."
 url: https://emailhippo-reviews.com
 breadcrumbs: true
+
 compress_html:
   clippings: all
   ignore:
@@ -21,14 +22,22 @@ compress_html:
 
 include: ["_pages"]
 
+timezone: Etc/UTC
+
 footer:
   links:
+    - label: "Main website"
+      icon: "fas fa-globe"
+      url: "https://www.emailhippo.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Email_Hippo"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/company/email-hippo-ltd/"
+    - label: "Facebook"
+      icon: "fas fa-facebook-square"
+      url: "https://www.facebook.com/emailhippoworldwide/"
 
 analytics:
   provider: "google-gtag"
@@ -38,6 +47,34 @@ analytics:
 
 twitter:
   username: "Email_Hippo"
+
+social:
+  type: Organization
+  name: "Email Hippo Ltd"
+  links:
+    - "https://twitter.com/Email_Hippo"
+    - "https://www.linkedin.com/company/email-hippo-ltd/"
+    - "https://www.facebook.com/emailhippoworldwide/"
+
+author:
+  name: "Email Hippo"
+  avatar: ""
+  bio: "Email Hippo provides email address verification and data cleansing solutions."
+  location: "Cornwall, United Kingdom"
+  links:
+    - label: "Main website"
+      icon: "fas fa-globe"
+      url: "https://www.emailhippo.com"
+    - label: "Twitter"
+      icon: "fas fa-twitter-square"
+      url: "https://twitter.com/Email_Hippo"
+    - label: "Linked In"
+      icon: "fas fa-linkedin"
+      url: "https://www.linkedin.com/company/email-hippo-ltd/"
+    - label: "Facebook"
+      icon: "fas fa-facebook-square"
+      url: "https://www.facebook.com/emailhippoworldwide/"
+    
 
 defaults:
   # _pages
