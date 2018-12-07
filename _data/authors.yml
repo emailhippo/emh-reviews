@@ -1,18 +1,3 @@
-@Email_Hippo:
-   name: "Email Hippo"
-   bio: "I am Email Hippo Ltd"
-   avatar: "/assets/images/authors/jo1_thumb.png"
-   links:
-     - label: "Email"
-       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:hello@emailhippo.com"
-     - label: "Website"
-       icon: "fas fa-fw fa-link"
-       url: "https://www.emailhipp.com"
-     - label: "Twitter"
-       icon : "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/Email_Hippo"
-
 Jo:
    name: "Jo Shinner"
    bio: "I work at Email Hippo Ltd"
