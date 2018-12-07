@@ -7,3 +7,15 @@ plugins:
    - jekyll-feed
    - jekyll-seo-tag
    - jekyll-include-cache
+minimal_mistakes_skin:mint
+title: Email Hippo Reviews
+title_separator: "|"
+name: "EmailHippo Reviewer"
+description: "Reviews of emailhippo.com services from trusted users and customers."
+url: https://emailhippo-reviews.com
+breadcrumbs: true
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
+
