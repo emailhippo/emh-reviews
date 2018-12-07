@@ -1,5 +1,5 @@
 main:
-  - title: "All reviews"
+  - title: "all reviews"
     url: /reviews
-  - title: "About"
+  - title: "about"
     url: /about
