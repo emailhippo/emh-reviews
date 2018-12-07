@@ -1,5 +1,9 @@
 main:
   - title: "all reviews"
     url: /reviews
+  - title: "compliance"
+    url: https://www.emailhippo.com/compliance/
+  - title: "contact"
+    url: https://www.emailhippo.com/contact/
   - title: "about"
     url: /about
