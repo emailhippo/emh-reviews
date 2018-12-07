@@ -18,7 +18,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development  # disable compression in dev environment
-    
+
+include: ["_pages"]
+
 defaults:
   # _pages
   - scope:
