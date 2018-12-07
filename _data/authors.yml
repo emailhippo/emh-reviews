@@ -1,7 +1,7 @@
 Jo:
    name: "Jo Shinner"
    bio: "I work at Email Hippo Ltd"
-   avatar: "/assets/images/authors/jo2_thumb.png"
+   avatar: "/assets/images/authors/jo1_thumb.png"
    links:
      - label: "Email"
        icon: "fas fa-fw fa-envelope-square"
