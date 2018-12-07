@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: minimal-mistakes
 plugins:
    - jekyll-mentions
    - jemoji
