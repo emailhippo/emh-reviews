@@ -1,5 +1,5 @@
 ---
-author: Jo
+layout: splash
 permalink: /
 header:
   image: /assets/images/branding/masthead1200x600.png
