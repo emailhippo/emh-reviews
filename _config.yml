@@ -7,7 +7,7 @@ plugins:
    - jekyll-feed
    - jekyll-seo-tag
    - jekyll-include-cache
-minimal_mistakes_skin:mint
+minimal_mistakes_skin: mint
 title: Email Hippo Reviews
 title_separator: "|"
 name: "EmailHippo Reviewer"
@@ -18,4 +18,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development  # disable compression in dev environment
-
