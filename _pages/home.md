@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 permalink: /
 header:
   image: /assets/images/branding/masthead1200x600.png
