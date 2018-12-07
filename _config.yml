@@ -36,6 +36,9 @@ analytics:
     tracking_id: "UA-65302523-9"
     anonymize_ip: false # default
 
+twitter:
+  username: "Email_Hippo"
+
 defaults:
   # _pages
   - scope:
