@@ -7,7 +7,7 @@ header:
   caption: "Real life, useful reviews of [**emailhippo.com**](https://www.emailhippo.com)"
 
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/reviews/logos/greenpeace350x221.png
     alt: "Greenpeace with email hippo"
     title: "Greenpeace with email hippo"
     excerpt: "Greenpeace is on a big mission and we’re happy the Email Hippo email validation API has a tiny part to play."
