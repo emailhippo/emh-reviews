@@ -1,9 +1,10 @@
 ---
-layout: home
+layout: splash
 permalink: /
 header:
-  image: /assets/images/branding/masthead2400x1200.png
-  image_description: Email Hippo reviews from authentic and trusted people.
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+  overlay_image: /assets/images/branding/masthead2400x1200.png
+  caption: "Real life, useful reviews of [**emailhippo.com**](https://www.emailhippo.com)"
+  actions:
+    - label: "read reviews"
+      url: "/reviews"
 ---
