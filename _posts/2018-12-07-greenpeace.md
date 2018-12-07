@@ -3,10 +3,13 @@ title: Review of Email Hippo from Greenpeace
 descripion: How does email validation play a part in helping Greenpeace make the world a better place?
 excerpt: Greenpeace is on a big mission and we’re happy the Email Hippo email validation API has a tiny part to play.
 categories: [reviews, more, api]
+permalink: /reviews/2018-12-greenpeace
 image: /assets/images/reviews/logos/greenpeace350x221.png
 toc: true
 toc_sticky: true
 ---
+
+<div><i class="fas fa-star" style="color:gold"></i><i class="fas fa-star" style="color:gold"></i><i class="fas fa-star" style="color:gold"></i><i class="fas fa-star" style="color:gold"></i><i class="fas fa-star" style="color:gold"></i></div>
 
 Greenpeace is on a big mission and we’re happy the Email Hippo email validation API has a tiny part to play.
 
