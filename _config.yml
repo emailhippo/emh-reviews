@@ -1,4 +1,4 @@
-theme: minimal-mistakes
+theme: mmistakes/minimal-mistakes
 plugins:
    - jekyll-mentions
    - jemoji
