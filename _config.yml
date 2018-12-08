@@ -41,10 +41,12 @@ footer:
       url: "https://www.facebook.com/emailhippoworldwide/"
 
 analytics:
-  provider: "google-gtag"
+  provider: "google-universal"
   google:
     tracking_id: "UA-65302523-9"
     anonymize_ip: false # default
+
+google_site_verification: "o8hstF2Xb-uen3vflB5IWm11GJfD5d1lPAAENWh2kdE"
 
 twitter:
   username: "Email_Hippo"

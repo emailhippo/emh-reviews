@@ -3,7 +3,7 @@ title: Review of Email Hippo from Direct Line Flights
 descripion: How does email validation play a part in helping Direct Line Flights cut costs?
 excerpt: Flying under the radar to improve business systems and customer service
 categories: [reviews, more, api]
-permalink: /reviews/2018-12-directlineflights
+permalink: /reviews/directlineflights
 canonical_url: 'https://www.emailhippo.com/resources/case-studies/flying-under-the-radar-to-improve-business-systems-and-customer-service/'
 image: /assets/images/reviews/logos/directlineflights350x221.png
 toc: true

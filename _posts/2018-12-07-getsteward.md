@@ -3,7 +3,7 @@ title: Review of Email Hippo from Getsteward
 descripion: How does email validation play a part in helping GetSteward lead generation?
 excerpt: “Email Hippo just blew the others out of the water”
 categories: [reviews, more, api]
-permalink: /reviews/2018-12-getsteward
+permalink: /reviews/getsteward
 canonical_url: 'https://www.emailhippo.com/resources/case-studies/blowing-the-others-out-of-the-water-with-get-steward/'
 image: /assets/images/reviews/logos/getsteward350x221.png
 toc: true

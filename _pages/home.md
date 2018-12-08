@@ -1,5 +1,7 @@
 ---
 layout: splash
+title: Real Testimonials and Reviews
+description: Looking for more information on Email Hippo services? See reviews and testimonials from real customers using Email Hippo today.
 permalink: /
 header:
   image: /assets/images/branding/masthead2400x1200.png
@@ -30,5 +32,5 @@ feature_row:
     btn_class: "btn--inverse"  
 ---
 
-## Featured reviews
+# featured reviews
 {% include feature_row %}
